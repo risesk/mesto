@@ -1,0 +1,5 @@
+
+.input-container__invalid .error-message {
+    padding: 0px;
+    visibility: visible;
+  }

@@ -1,0 +1,9 @@
+@import url(./__invalid/input-container__invalid.css);
+
+.input-container {
+    margin-bottom: 15px;
+}
+
+.input-container:last-of-type {
+    margin-bottom: 33px;
+}

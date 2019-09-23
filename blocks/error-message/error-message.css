@@ -1,0 +1,8 @@
+.error-message {
+    color: #FF3333;
+    font-size: 12px;
+    line-height: 15px;
+    visibility: hidden;
+    min-height: 15px;
+    display: block;
+  }
